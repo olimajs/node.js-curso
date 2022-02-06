@@ -1,0 +1,19 @@
+{
+  "name": "clase-3",
+  "version": "1.0.0",
+  "description": "un curso de nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "curso",
+    "español"
+  ],
+  "author": "olimajs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
